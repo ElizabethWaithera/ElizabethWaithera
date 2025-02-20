@@ -13,9 +13,13 @@ Picture this: A curious mind meets data science meets social impact. That's me! 
 - Finding new ways to make tech more inclusive and impactful
 
 💫 **Some cool stuff I've built:**
-- A heart-warming SRHR chatbot that's helped thousands access health info
-- An AI buddy that helps track climate-health patterns
-- Smart tools that make M&E feel less like homework and more like discovery
+-  A speech therapy companion using AI to make practice fun and effective
+-  An early warning system for GBV risk detection that's helped protect communities
+- AI-powered forex analysis tool that makes sense of market fundamentals
+- Your AI nutritionist for balanced, delicious meal planning
+- A judgment-free SRHR information system that's touched thousands of lives
+- *...and more brewing in my code cauldron!* 🧪
+
 
 🛠️ **My favorite tech toys:**
 - LLMs (because who doesn't love a good conversation?)
@@ -24,6 +28,9 @@ Picture this: A curious mind meets data science meets social impact. That's me! 
 - All things data science (the more complex, the better!)
 
 🌍 **When I'm not coding:**
+- Active contributor to AI for social good projects
+- Always excited to join forces on impactful initiatives
+- Mentor and learner in the tech community
 - Spreading the data science love as a Zindi & WiDS Ambassador
 - Spinning my way through life (literally - on a bike!)
 - Learning something new (always!)
@@ -34,4 +41,7 @@ Got an idea that could change the world? Or just want to chat about the latest i
 Remember: The best code is the one that makes someone's life better! 🌟
 
 *P.S. Yes, I really do get excited about vector databases. No, I won't apologize for it! 😄*
+
+
+
 
