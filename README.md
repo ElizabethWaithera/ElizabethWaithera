@@ -1,46 +1,81 @@
+<h1 align="center">Hi there, I'm Liz! 👋</h1>
+<p align="center">
+  <em>Curious mind | AI Builder | Tech for Good Advocate</em>
+</p>
 
-## Hello, fellow innovators! 👋
+---
 
-I'm **Elizabeth** (but you can call me Liz), and I'm on a mission to make AI work for everyone! 🚀
+### 🚀 About Me  
 
-### My Story
-Picture this: A curious mind meets data science meets social impact. That's me! I spend my days teaching machines to be helpful, turning complex data into "aha!" moments, and occasionally geeking out over the latest AI breakthroughs. 
+I'm Elizabeth (but everyone calls me **Liz**), and I'm on a mission to make **AI work for everyone** — especially where it matters most. Whether it’s decoding data or crafting intelligent assistants, I bring code to life with purpose.
 
-🌱 **What keeps me up at night (in a good way!):**
-- Building friendly AI assistants that help people access health information
-- Teaching LLMs to be better conversation partners
-- Using data to tell stories 
-- Finding new ways to make tech more inclusive and impactful
+---
 
-💫 **Some cool stuff I've built:**
--  A speech therapy companion using AI to make practice fun and effective
--  An early warning system for GBV risk detection that's helped protect communities
-- AI-powered forex analysis tool that makes sense of market fundamentals
-- Your AI nutritionist for balanced, delicious meal planning
-- A judgment-free SRHR information system that's touched thousands of lives
-- *...and more brewing in my code cauldron!* 🧪
+### 🧠 My Story  
 
+Picture this: A curious mind meets data science meets social impact. That's me in a nutshell!  
+I spend my days:
 
-🛠️ **My favorite tech toys:**
-- LLMs (because who doesn't love a good conversation?)
-- RAG systems (teaching AI to be a better researcher)
-- Python (my trusted sidekick)
-- All things data science (the more complex, the better!)
+- 🤖 Building **friendly AI assistants** to support health & wellbeing  
+- 💬 Teaching **LLMs** to be smarter conversation buddies  
+- 📊 Using **data storytelling** to create lightbulb moments  
+- 🌍 Making tech **inclusive and impactful**
 
-🌍 **When I'm not coding:**
-- Active contributor to AI for social good projects
-- Always excited to join forces on impactful initiatives
-- Mentor and learner in the tech community
-- Spreading the data science love as a Zindi & WiDS Ambassador
-- Spinning my way through life (literally - on a bike!)
-- Learning something new (always!)
+---
 
-### Let's Create Magic Together! ✨
-Got an idea that could change the world? Or just want to chat about the latest in AI? Drop me a line at [elizabeththuo15@gmail.com](mailto:elizabeththuo15@gmail.com)
+### ✨ Some Cool Things I’ve Built  
 
-Remember: The best code is the one that makes someone's life better! 🌟
+- 🗣️ **AI Speech Therapy Companion** – Makes speech practice fun & effective  
+- 🛑 **GBV Early Warning System** – Helped protect at-risk communities  
+- 💹 **AI-Powered Forex Analysis Tool** – Deciphers complex market fundamentals  
+- 🥗 **Your AI Nutritionist** – Crafts delicious, balanced meal plans  
+- 💗 **SRHR Info System** – A safe, supportive AI space used by thousands  
+- 🔮 …and more brewing in my code cauldron!
 
-*P.S. Yes, I really do get excited about vector databases. No, I won't apologize for it! 😄*
+---
+
+### 🛠️ Tech I Love  
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-orange?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Science-06B6D4?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+- 🧠 Large Language Models  
+- 🔍 Retrieval-Augmented Generation (RAG)  
+- 🐍 Python (my ride-or-die)  
+- 📊 Data Science & Analytics  
+- 📈 Visualization (hello, insights!)  
+
+---
+
+### 🌍 Beyond the Code  
+
+- 🤝 Active in **AI for Social Good** projects  
+- 💡 Always up for **impactful collabs**  
+- 👩🏽‍🏫 **Mentor & learner** in the tech ecosystem  
+- 🌟 **Zindi & WiDS Ambassador**  
+- 🚴🏽‍♀️ Spinning through life – literally!  
+- 📚 Lifelong learner (can’t help it!)
+
+---
+
+### 💌 Let’s Connect & Create!  
+
+Got a bold idea? A wild AI dream? Just want to geek out over vector databases?
+
+📧 Email me at: [elizabeththuo15@gmail.com](mailto:elizabeththuo15@gmail.com)  
+🌐 LinkedIn: [Elizabeth Waithera](https://www.linkedin.com/in/elizabeth-thuo-a6820310a/)
+
+> *“The best code is the one that makes someone's life better.”* 🌟
+
+---
+
+> **P.S.** Yes, I really get excited about **vector databases**. No, I won’t apologize for it. 😄
 
 
 
